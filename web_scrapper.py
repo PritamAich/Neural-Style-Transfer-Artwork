@@ -114,7 +114,7 @@ def main(url, path):
 
         
 #Downloading images
-# Just provide the url of the website and the code will do the rest
+# Just provide the url of the website and path to where the images will be stored and the code will do the rest
 main("https://webneel.com/nature-photography-photos", "Desktop/Data Science Projets/Style transfer artworks/images")
 
 
