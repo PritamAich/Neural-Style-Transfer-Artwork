@@ -8,6 +8,11 @@ The principle of neural style transfer is to define two distance functions, one 
 
 In summary, we’ll take the base input image, a content image that we want to match, and the style image that we want to match. We’ll transform the base input image by minimizing the content and style distances (losses) with backpropagation, creating an image that matches the content of the content image and the style of the style image.
 
+
+## Important note:
+
+The main code file is 'Artwork.ipynb'. If the file doesn't open in GitHub, visit this [link](https://nbviewer.jupyter.org/github/PritamAich/Neural-Style-Transfer-Artwork/blob/master/Artwork.ipynb) to view the notebook.
+
 ## Project Overview:
 
 This project is based on Neural style transfer for creating artistic images from regular images.
